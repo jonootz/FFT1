@@ -51,8 +51,7 @@
       Title="Notes, Examples, and Blockquotes"
       Link="/Content/C_Conditions Notes_and_Tables/C_NotesExamplesBlockquotes.htm" />
     <TocEntry
-      Title="Tables"
-      Link="/Content/C_Conditions Notes_and_Tables/C_Tables.htm" />
+      Title="Tables" />
   </TocEntry>
   <TocEntry
     Title="NewFolder">

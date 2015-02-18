@@ -49,9 +49,9 @@
       Link="/Content/C_Conditions Notes Tables/C_Conditions.htm" />
     <TocEntry
       Title="Notes, Examples, and Blockquotes"
-      Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+      Link="/Content/C_Conditions Notes Tables/C_NotesExamplesBlockquotes.htm" />
     <TocEntry
       Title="Tables"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm" />
+      Link="/Content/C_Conditions Notes Tables/C_Tables.htm" />
   </TocEntry>
 </CatapultToc>

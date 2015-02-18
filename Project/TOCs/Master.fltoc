@@ -57,13 +57,10 @@
   <TocEntry
     Title="NewFolder">
     <TocEntry
-      Title="new1"
-      Link="/Content/NewFolder/new1.htm" />
+      Title="new1" />
     <TocEntry
-      Title="new2"
-      Link="/Content/NewFolder/new2.htm" />
+      Title="new2" />
     <TocEntry
-      Title="NewMedia"
-      Link="/Content/NewFolder/NewMedia.wmv" />
+      Title="NewMedia" />
   </TocEntry>
 </CatapultToc>

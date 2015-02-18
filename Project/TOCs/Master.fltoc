@@ -43,13 +43,13 @@
   </TocEntry>
   <TocEntry
     Title="More Features"
-    Link="/Content/C_Conditions Notes_and_Tables/C_ConditionsNotesttTables.htm">
+    Link="/Content/C_Conditions NotesandTables/C_ConditionsNotesttTables.htm">
     <TocEntry
       Title="Conditions"
-      Link="/Content/C_Conditions Notes_and_Tables/C_Conditionss.htm" />
+      Link="/Content/C_Conditions NotesandTables/C_Conditionss.htm" />
     <TocEntry
       Title="Notes, Examples, and Blockquotes"
-      Link="/Content/C_Conditions Notes_and_Tables/C_NotesExamplesBlockquotes.htm" />
+      Link="/Content/C_Conditions NotesandTables/C_NotesExamplesBlockquotes.htm" />
     <TocEntry
       Title="Tables" />
   </TocEntry>

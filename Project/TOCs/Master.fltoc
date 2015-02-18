@@ -13,13 +13,13 @@
   </TocEntry>
   <TocEntry
     Title="Links and Lists"
-    Link="/Content/B_Links and Lists/B_LinksAndLists.htm">
+    Link="/Content/A_Getting Started/B_Links and Lists/B_LinksAndLists.htm">
     <TocEntry
       Title="Links and Footnotes"
-      Link="/Content/B_Links and Lists/B_Links.htm" />
+      Link="/Content/A_Getting Started/B_Links and Lists/B_Links.htm" />
     <TocEntry
       Title="Lists"
-      Link="/Content/B_Links and Lists/B_Lists.htm" />
+      Link="/Content/A_Getting Started/B_Links and Lists/B_Lists.htm" />
   </TocEntry>
   <TocEntry
     Title="Images"

@@ -9,7 +9,7 @@
       Link="/Content/A_Getting Started/A_Basic Steps.htm" />
     <TocEntry
       Title="What's New"
-      Link="/Content/B_Links and Lists/A_Whats New.htm" />
+      Link="/Content/A_Getting Started/A_Whats New.htm" />
   </TocEntry>
   <TocEntry
     Title="Links and Lists"
@@ -52,6 +52,6 @@
       Link="/Content/C_Conditions Notes Tables/C_NotesExamplesBlockquotes.htm" />
     <TocEntry
       Title="Tables"
-      Link="/Content/B_Links and Lists/C_Tables.htm" />
+      Link="/Content/C_Conditions Notes Tables/C_Tables.htm" />
   </TocEntry>
 </CatapultToc>

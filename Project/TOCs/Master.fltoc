@@ -13,17 +13,17 @@
   </TocEntry>
   <TocEntry
     Title="Links and Lists"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm">
+    Link="/Content/B_Links and Lists/B_LinksAndLists.htm">
     <TocEntry
       Title="Links and Footnotes"
       Link="/Content/B_Links and Lists/B_Links.htm" />
     <TocEntry
       Title="Lists"
-      Link="/Content/B_Links and Lists/Lists.htm" />
+      Link="/Content/B_Links and Lists/B_Lists.htm" />
   </TocEntry>
   <TocEntry
     Title="Images"
-    Link="/Content/D_Images/Images.htm">
+    Link="/Content/D_Images/D_Images.htm">
     <TocEntry
       Title="Thumbnail Image"
       Link="/Content/D_Images/ThumbnailImage.htm" />
@@ -35,7 +35,7 @@
         Link="/Content/D_Images/D_ImagePositionedLeft.htm" />
       <TocEntry
         Title="Image Positioned Right"
-        Link="/Content/D_Images/ImagePositionedRight.htm" />
+        Link="/Content/D_Images/D_ImagePositionedRight.htm" />
     </TocEntry>
     <TocEntry
       Title="Image Within List"
@@ -43,7 +43,7 @@
   </TocEntry>
   <TocEntry
     Title="More Features"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesttTables.htm">
+    Link="/Content/C_Conditions Notes Tables/C_ConditionsNotesttTables.htm">
     <TocEntry
       Title="Conditions"
       Link="/Content/C_Conditions Notes Tables/C_Conditions.htm" />

@@ -3,20 +3,20 @@
   Version="1">
   <TocEntry
     Title="Getting Started"
-    Link="/Content/A_Getting Started/Getting Started.htm">
+    Link="/Content/A_Getting Started/A_Getting Started.htm">
     <TocEntry
       Title="Basic Steps"
-      Link="/Content/A_Getting Started/Basic Steps.htm" />
+      Link="/Content/A_Getting Started/A_Basic Steps.htm" />
     <TocEntry
       Title="What's New"
-      Link="/Content/A_Getting Started/Whats New.htm" />
+      Link="/Content/A_Getting Started/A_Whats New.htm" />
   </TocEntry>
   <TocEntry
     Title="Links and Lists"
     Link="/Content/B_Links and Lists/LinksAndLists.htm">
     <TocEntry
       Title="Links and Footnotes"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Link="/Content/B_Links and Lists/B_Links.htm" />
     <TocEntry
       Title="Lists"
       Link="/Content/B_Links and Lists/Lists.htm" />
@@ -32,7 +32,7 @@
       Link="/Content/D_Images/Positioned Images.htm">
       <TocEntry
         Title="Image Positioned Left"
-        Link="/Content/D_Images/ImagePositionedLeft.htm" />
+        Link="/Content/D_Images/D_ImagePositionedLeft.htm" />
       <TocEntry
         Title="Image Positioned Right"
         Link="/Content/D_Images/ImagePositionedRight.htm" />
@@ -46,7 +46,7 @@
     Link="/Content/C_Conditions Notes Tables/ConditionsNotesttTables.htm">
     <TocEntry
       Title="Conditions"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Link="/Content/C_Conditions Notes Tables/C_Conditions.htm" />
     <TocEntry
       Title="Notes, Examples, and Blockquotes"
       Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />

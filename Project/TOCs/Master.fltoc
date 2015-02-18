@@ -23,23 +23,23 @@
   </TocEntry>
   <TocEntry
     Title="Images"
-    Link="/Content/D_Images/D_Images.htm">
+    Link="/Content/D_Images and Videos/D_Images.htm">
     <TocEntry
       Title="Thumbnail Image"
-      Link="/Content/D_Images/D_ThumbnailImage.htm" />
+      Link="/Content/D_Images and Videos/D_ThumbnailImage.htm" />
     <TocEntry
       Title="Positioned Images"
-      Link="/Content/D_Images/D_Positioned Images.htm">
+      Link="/Content/D_Images and Videos/D_Positioned Images.htm">
       <TocEntry
         Title="Image Positioned Left"
-        Link="/Content/D_Images/D_ImagePositionedLeft.htm" />
+        Link="/Content/D_Images and Videos/D_ImagePositionedLeft.htm" />
       <TocEntry
         Title="Image Positioned Right"
-        Link="/Content/D_Images/D_ImagePositionedRight.htm" />
+        Link="/Content/D_Images and Videos/D_ImagePositionedRight.htm" />
     </TocEntry>
     <TocEntry
       Title="Image Within List"
-      Link="/Content/D_Images/D_ImageWithinList.htm" />
+      Link="/Content/D_Images and Videos/D_ImageWithinList.htm" />
   </TocEntry>
   <TocEntry
     Title="More Features"

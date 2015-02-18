@@ -54,4 +54,16 @@
       Title="Tables"
       Link="/Content/_C_Conditions-Notes-and-Tables/C_Tables.htm" />
   </TocEntry>
+  <TocEntry
+    Title="NewFolder">
+    <TocEntry
+      Title="new1"
+      Link="/Content/NewFolder/new1.htm" />
+    <TocEntry
+      Title="new2"
+      Link="/Content/NewFolder/new2.htm" />
+    <TocEntry
+      Title="NewMedia"
+      Link="/Content/NewFolder/NewMedia.wmv" />
+  </TocEntry>
 </CatapultToc>
